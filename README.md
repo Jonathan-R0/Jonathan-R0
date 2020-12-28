@@ -1,6 +1,6 @@
 <table width="100%"> 
   <tr>
-  <td width="75%">
+  <td width="75%" align="center">
       
 &nbsp; <br> ![Spotify](https://novatorem-two-ruby.vercel.app/api/spotify)
 
