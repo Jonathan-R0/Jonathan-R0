@@ -7,8 +7,8 @@
   </td>
   <td width="50%">
 
-<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+<br><p align="center"><br><br>
+  [![Visits](https://komarev.com/ghpvc/?username=Jonathan-R0&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/Jonathan-R0)
 </p>
   </td>
   </table>
