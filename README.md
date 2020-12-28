@@ -21,8 +21,12 @@
 <details>
 <summary>Languages and Tools</summary>
   <pre> 
+  <div style="float:left;">
     <img src="http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" alt="C">
+  </div>
+  <div style="float:left;">
     <img src="https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B" alt="C++">
+  </div>
     <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Git">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="Github">
     <img src="http://img.shields.io/badge/-Vim-019833?style=flat-square&logo=vim&logoColor=#ffffff" alt="Vim">
