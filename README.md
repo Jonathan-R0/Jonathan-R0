@@ -5,7 +5,7 @@
 &nbsp; <br> ![Spotify](https://novatorem-two-ruby.vercel.app/api/spotify)
 
   </td>
-  <td width=40%">
+  <td width="40%">
 
   <br><p align="center"> Welcome to my Github Profile! <br><br>
     [![Website](https://img.shields.io/badge/my%20stuff-website-blue?style=flat-square&logo=github)](https://jonathan-r0.github.io)
@@ -34,7 +34,7 @@
 <details>
 <summary>Languages and Tools</summary>
   <pre> 
-  <img src="https://img.shields.io/badge/GitHub-Star-blue?logo=github" alt="aaaaaaaaaa">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="Github">
   </pre>
 </details>
 
