@@ -34,6 +34,7 @@
 <details>
 <summary>Languages and Tools</summary>
   <pre> 
+  <img src="https://img.shields.io/badge/GitHub-Star-blue?logo=github" alt="Star on GitHub">
     ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
     ![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=cpplogoColor=ffffff)
     ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
