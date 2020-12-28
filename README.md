@@ -21,7 +21,7 @@
 <details>
 <summary>Languages and Tools</summary>
   <pre> 
-  <div style="float:left;">
+  <div style="float:center;">
     <img src="http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" alt="C">
   </div>
   <div style="float:left;">
