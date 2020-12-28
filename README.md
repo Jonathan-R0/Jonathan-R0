@@ -1,4 +1,4 @@
-<table width="100%"> 
+<table width="100%" align="center"> 
   <tr>
   <td width="60%" align="center">
       
@@ -21,7 +21,7 @@
 <details>
 <summary>Languages and Tools</summary>
   <pre> 
-  <table align="center">
+  <table align="center" cellpadding="0" cellspacing="0" border="0">
   <td align="center">
     <img src="http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" alt="C">
   </td>
@@ -41,7 +41,7 @@
     <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
   </td>
   </table>
-  <table align="center">
+  <table align="center" cellpadding="0" cellspacing="0" border="0">
   <td align="center">
     <img src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff" alt="Java">
   </td>
