@@ -8,7 +8,7 @@
   <td width=75%">
 
 <br><p align="center"> Welcome to my Github Profile! <br><br>
-  [![Visits](https://komarev.com/ghpvc/?username=Jonathan-R0&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/Jonathan-R0)
+  [![Visits](https://komarev.com/ghpvc/?username=Jonathan-R0&logo=GitHub&label=github%20visits&color=336611&logoColor=white&style=flat-square)](https://github.com/Jonathan-R0)
 </p>
   </td>
   </table>
