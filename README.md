@@ -17,7 +17,10 @@
 </table>
 
 <details>
-<summary><code> Languages and Tools </code></summary>
+<summary><code>Languages and Tools</code></summary>
+  <pre> 
+    Things I know.
+  </pre>
 </details>
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
