@@ -43,8 +43,8 @@
 <details>
 <summary>Languages and Tools</summary>
   <pre> 
-    ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)]
-    ![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=cpplogoColor=ffffff)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)]
+![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=cpplogoColor=ffffff)
     ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
     ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
     ![Vim](http://img.shields.io/badge/-Vim-007ACC?style=flat-square&logo=vim&logoColor=ffffff)
