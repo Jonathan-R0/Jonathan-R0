@@ -21,7 +21,7 @@
 <details>
 <summary>Languages and Tools</summary>
   <pre> 
-  <table align="center" cellpadding="0" cellspacing="0" border="0">
+  <table align="center" cellpadding="0" cellspacing="0" border="0" style="border: 0;">
   <td align="center">
     <img src="http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" alt="C">
   </td>
