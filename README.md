@@ -21,11 +21,11 @@
 <details>
 <summary>Languages and Tools</summary>
   <pre> 
-  <div class="row">
-    <div class="column">
+  <div class="column">
+    <div class="row">
       <img src="http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" alt="C">
     </div>
-    <div class="column">
+    <div class="row">
       <img src="https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B" alt="C++">
     </div>
   </div>
