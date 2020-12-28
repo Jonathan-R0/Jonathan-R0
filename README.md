@@ -1,11 +1,11 @@
 <table width="100%"> 
   <tr>
-  <td width="50%" align="center">
+  <td width="66%" align="center">
       
 &nbsp; <br> ![Spotify](https://novatorem-two-ruby.vercel.app/api/spotify)
 
   </td>
-  <td width=50%">
+  <td width=34%">
 
 <br><p align="center"> Welcome to my Github Profile! <br><br>
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/OO0HCCzs)
