@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="Github">
   <img src="http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" alt="C">
   <img src="https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=cpplogoColor=ffffff" alt="C++">
+  <img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus&logoColor=ffffff" alt="C++">
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Gi">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="Github">
   <img src="http://img.shields.io/badge/-Vim-007ACC?style=flat-square&logo=vim&logoColor=ffffff" alt="Vim">
