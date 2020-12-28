@@ -26,15 +26,15 @@
     <img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B" alt="C++">
     <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff" alt="Git">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="Github">
+    <img src="http://img.shields.io/badge/-Vim-019833?style=for-the-badge&logo=vim&logoColor=#ffffff" alt="Vim">
+    <img src="http://img.shields.io/badge/-Python-ffff17?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python">
+    <img src="http://img.shields.io/badge/-Java-5B4638?style=for-the-badge&logo=java&logoColor=ffffff" alt="Java">
+    <img src="http://img.shields.io/badge/-Linux-A8B9CC?style=for-the-badge&logo=Linux&logoColor=ffffff" alt="Linux">
+    <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML">
+    <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown" alt="Markdown">
+    <img src="http://img.shields.io/badge/-VS%20Code-0000FF?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" alt="VS-Code">
+    <img src="http://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript">
   </div>
-    <img src="http://img.shields.io/badge/-Vim-019833?style=flat-square&logo=vim&logoColor=#ffffff" alt="Vim">
-    <img src="http://img.shields.io/badge/-Python-ffff17?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
-    <img src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff" alt="Java">
-    <img src="http://img.shields.io/badge/-Linux-A8B9CC?style=flat-square&logo=Linux&logoColor=ffffff" alt="Linux">
-    <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML">
-    <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown" alt="Markdown">
-    <img src="http://img.shields.io/badge/-VS%20Code-0000FF?style=flat-square&logo=visual-studio-code&logoColor=ffffff" alt="VS-Code">
-    <img src="http://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript">
   </pre>
 </details>
 
