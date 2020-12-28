@@ -40,6 +40,8 @@
   <td align="center">
     <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
   </td>
+  </table>
+  <table>
   <td align="center">
     <img src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff" alt="Java">
   </td>
