@@ -15,7 +15,7 @@
   </p>
   </td>
 </table>
-
+![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=cpplogoColor=ffffff)
 <details>
 <summary>Languages and Tools</summary>
   <pre> 
