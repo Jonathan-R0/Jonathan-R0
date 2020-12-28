@@ -16,25 +16,26 @@
   </td>
 </table>
 
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=cpplogoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Vim](http://img.shields.io/badge/-Vim-007ACC?style=flat-square&logo=vim&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![Linux](http://img.shields.io/badge/-Linux-A8B9CC?style=flat-square&logo=Linux&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![TypeScript](http://img.shields.io/badge/-TypeScript-A8B9CC?style=flat-square&logo=typescript&logoColor=ffffff)
-![JavaScript](http://img.shields.io/badge/-JavaScript-A8B9CC?style=flat-square&logo=javascript&logoColor=ffffff)
+
 
 <details>
 <summary>Languages and Tools</summary>
   <pre> 
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="Github">
+  <img src="http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" alt="Github">
+  <img src="https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=cpplogoColor=ffffff" alt="Github">
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Github">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="Github">
+  <img src="http://img.shields.io/badge/-Vim-007ACC?style=flat-square&logo=vim&logoColor=ffffff" alt="Github">
+  <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Github">
+  <img src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff" alt="Github">
+  <img src="http://img.shields.io/badge/-Linux-A8B9CC?style=flat-square&logo=Linux&logoColor=ffffff" alt="Github">
+  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="Github">
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="Github">
+  <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown" alt="Github">
+  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" alt="Github">
+  <img src="http://img.shields.io/badge/-TypeScript-A8B9CC?style=flat-square&logo=typescript&logoColor=ffffff" alt="Github">
+  <img src="http://img.shields.io/badge/-JavaScript-A8B9CC?style=flat-square&logo=javascript&logoColor=ffffff" alt="Github">
   </pre>
 </details>
 
