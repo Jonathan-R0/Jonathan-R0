@@ -23,12 +23,12 @@
   <pre> 
   <span style="float:left; display:inline-block;">
     <img src="http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" alt="C">
-  </span>
-  <span style="float:left;">
     <img src="https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B" alt="C++">
   </span>
+  <span style="float:left;">
     <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Git">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="Github">
+  </span>
     <img src="http://img.shields.io/badge/-Vim-019833?style=flat-square&logo=vim&logoColor=#ffffff" alt="Vim">
     <img src="http://img.shields.io/badge/-Python-ffff17?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
     <img src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff" alt="Java">
