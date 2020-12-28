@@ -21,13 +21,11 @@
 <details>
 <summary>Languages and Tools</summary>
   <pre> 
-  <span style="float:left; display:inline-block;">
-    <img src="http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" alt="C">
-    <img src="https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B" alt="C++">
-  </span>
-  <div style="float:left;" align="center">
-    <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Git">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="Github">
+  <div align="center">
+    <img src="http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff" alt="C">
+    <img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B" alt="C++">
+    <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff" alt="Git">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="Github">
   </div>
     <img src="http://img.shields.io/badge/-Vim-019833?style=flat-square&logo=vim&logoColor=#ffffff" alt="Vim">
     <img src="http://img.shields.io/badge/-Python-ffff17?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
