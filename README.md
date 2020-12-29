@@ -28,7 +28,6 @@
     <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff" alt="Git">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="Github">
     <img src="http://img.shields.io/badge/-Vim-019833?style=for-the-badge&logo=vim&logoColor=#ffffff" alt="Vim">
-  </div>
   <div align="right">
     <img src="http://img.shields.io/badge/-Python-ffff17?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python">
     <img src="http://img.shields.io/badge/-Java-5B4638?style=for-the-badge&logo=java&logoColor=ffffff" alt="Java">
@@ -37,6 +36,7 @@
     <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown" alt="Markdown">
     <img src="http://img.shields.io/badge/-VS%20Code-0000FF?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" alt="VS-Code">
     <img src="http://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript">
+  </div>
   </div>
   </pre>
 </details>
