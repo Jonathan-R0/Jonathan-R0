@@ -20,7 +20,9 @@
 
 <details>
 <summary>Languages and Tools</summary>
-  <pre> 
+  <pre>
+  <table>
+  <tr>
   <div align="left">
                         <img src="http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff" alt="C">
                         <img src="https://img.shields.io/badge/-Assembly-804000?style=for-the-badge&logo=Assembly&logoColor=ffffff" alt="Assembly">
@@ -30,6 +32,8 @@
                         <img src="http://img.shields.io/badge/-Vim-019833?style=for-the-badge&logo=vim&logoColor=#ffffff" alt="Vim">
                         <img src="http://img.shields.io/badge/-Python-ffff17?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python">
   </div>
+  </tr>
+  <tr>
   <div align="right">
 <img src="http://img.shields.io/badge/-Java-5B4638?style=for-the-badge&logo=java&logoColor=ffffff" alt="Java">                        
 <img src="http://img.shields.io/badge/-Linux-A8B9CC?style=for-the-badge&logo=Linux&logoColor=ffffff" alt="Linux">                        
@@ -38,6 +42,8 @@
 <img src="http://img.shields.io/badge/-VS%20Code-0000FF?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" alt="VS-Code">                        
 <img src="http://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript">                        
   </div>
+  </tr>
+  </table>
   </pre>
 </details>
 
