@@ -1,10 +1,12 @@
 <table width="100%" align="center"> 
   <tr>
+  <!--
   <td width="60%" align="center">
       
 &nbsp; <br> ![Spotify](https://novatorem-two-ruby.vercel.app/api/spotify)
 
   </td>
+  -->
   <td width="40%">
 
   <br><p align="center"> Welcome to my Github Profile! <br><br>
