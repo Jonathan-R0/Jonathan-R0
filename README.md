@@ -3,7 +3,7 @@
 #### I'm a backend developer by day ☼ and a fullstack dev by night ☾ (only if required, damn you css! 😤)
 
 Developer at [Creative Coefficient](https://www.creativecoefficient.net/);<br>
-Computer Engineering student at [FIUBA](https://www.fi.uba.ar/);<br>
+Computer Engineering student at [FIUBA](https://www.fi.uba.ar/); // Just 4 subjects away 🤞<br>
 
 - ⚙️ I love using: `.ts`, `.sql`, `.py`, `.java`, `.git`, `.md`, `.ipynb`,`.c`, `.cpp`, `.psd`
 - 🌍 I mostly work with NestJs and Postgres :]
